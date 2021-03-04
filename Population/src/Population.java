@@ -19,6 +19,7 @@ public class Population {
 		}
 		
 		System.out.println(humans.length);
+		System.out.println("hello");
 
 	}
 
